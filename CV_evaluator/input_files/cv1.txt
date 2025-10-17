@@ -1,0 +1,36 @@
+John Doe
+Email: john.doe@example.com | Phone: +371 12345678 | Location: Riga, Latvia
+LinkedIn: linkedin.com/in/johndoe | GitHub: github.com/johndoe
+
+Professional Summary:
+Results-driven Python Developer with 3 years of experience in developing and maintaining production-grade Django applications. Skilled in building RESTful APIs, automating workflows, and collaborating with cross-functional teams. Passionate about writing clean, maintainable, and efficient code.
+
+Skills:
+- Python 3.10+, Django 4+
+- RESTful APIs, JWT, OAuth
+- PostgreSQL, Aurora DB
+- CI/CD pipelines, Docker, Docker-Compose
+- Git flow, feature branching, code reviews
+- Monitoring tools: Sentry, Prometheus, Grafana
+- K8s, RabbitMQ, AWS (ECS, S3, RDS)
+
+Experience:
+Software Developer | ABC Tech Solutions, Riga, Latvia | June 2020 – Present
+- Developed and maintained Django-based web applications, ensuring scalability and performance.
+- Designed and implemented RESTful APIs with robust authentication using JWT and OAuth.
+- Structured and optimized database models using PostgreSQL and Aurora DB.
+- Automated CI/CD workflows, increasing deployment efficiency by 30%.
+- Collaborated with front-end developers and DevOps engineers to deliver high-quality products.
+- Monitored and diagnosed production issues using Prometheus and Grafana.
+
+Junior Python Developer | XYZ Innovations, Riga, Latvia | January 2019 – May 2020
+- Assisted in refactoring legacy codebases to align with modern practices.
+- Conducted code reviews and ensured adherence to Git flow practices.
+- Gained hands-on experience with Docker, RabbitMQ, and Kubernetes for containerized services.
+
+Education:
+Bachelor’s Degree in Computer Science | University of Latvia | 2018
+
+Languages:
+- Latvian: Native
+- English: Fluent

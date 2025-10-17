@@ -1,0 +1,18 @@
+Tavi darba pienākumi
+Izstrādāt server-side risinājumus, izmantojot Python 3.10+ un Django 4+
+Uzturēt un uzlabot esošo monolīto un servisu arhitektūru
+Veidot un izmantot RESTful API, datu validāciju, autentifikācijas risinājumus - JWT, OAuth
+Strukturēt datu modeļus ar PostgreSQL un Aurora DB
+Automatizēt testus, validācijas un CI/CD darbplūsmas
+Strādāt ciešā sadarbībā ar front-end izstrādātājiem, produktu vadītājiem un DevOps
+Refaktorēt kodu, analizēt problēmas - Sentry, Prometheus, Grafana
+
+Prasības kandidātiem
+Vismaz 2–3 gadu pieredze ar Django production risinājumos
+Proti rakstīt strukturētu, pārbaudāmu, dokumentētu kodu
+Pieredze ar Docker / Docker-Compose
+Izproti GIT flow, feature branching, code review kultūru
+Vari lasīt un veidot REST API, saprotot datu serializāciju, stateless dizainu
+Labas latviešu un angļu valodas zināšanas
+(Daļa no Giraffe360 komandām bāzētas Lielbritānijā un ASV)
+Ir pieredze ar K8s, RabbitMQ, AWS - ECS, S3, RDS

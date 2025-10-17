@@ -1,0 +1,24 @@
+# CV atbilstības pārskats
+
+**Atbilstības vērtējums:** 93/100  
+**Verdikts:** 🟢 <b>Strong match</b>
+
+## Kopsavilkums
+Kandidāta CV ir izcili saskaņots ar darba aprakstu, demonstrējot spēcīgu pieredzi un prasmes visās galvenajās jomās. Lielākā daļa prasību ir tieši vai netieši apmierinātas, un kandidāts pārsniedz minimālo pieredzes slieksni. Nelielas nepilnības ir saistītas ar specifisku terminu trūkumu, kas, visticamāk, ir ietverti plašākās prasmēs.
+
+## Spēcīgākās puses
+- 3+ gadu pieredze ar Python 3.10+ un Django 4+ ražošanas risinājumos
+- Spēcīga pieredze RESTful API izstrādē, ieskaitot JWT un OAuth autentifikāciju
+- Pieredze ar PostgreSQL un Aurora DB datu modeļu strukturēšanā un optimizēšanā
+- Pieredze CI/CD darbplūsmu automatizācijā un Docker/Docker-Compose izmantošanā
+- Izpratne un pieredze ar Git flow, feature branching un code review
+- Pieredze ar monitoringa rīkiem: Sentry, Prometheus, Grafana
+- Praktiska pieredze ar K8s, RabbitMQ un AWS (ECS, S3, RDS)
+- Labas latviešu (dzimtā) un angļu (brīvi) valodas zināšanas
+- Pieredze sadarbībā ar front-end un DevOps komandām
+
+## Pietrūkstošās prasības
+- Nav tieši minēta pieredze ar 'testu automatizāciju' ārpus CI/CD konteksta.
+- Nav tieši minēta 'datu validācija' kā atsevišķa prasme, lai gan tā ir daļa no API izstrādes.
+- Nav tieši minēta 'dokumentēta koda' rakstīšana, lai gan 'tīrs un uzturams kods' ir uzsvērts.
+- Nav tieši minēta izpratne par 'datu serializāciju' un 'stateless dizainu' REST API kontekstā, lai gan API izstrādes pieredze to ļoti spēcīgi implicē.

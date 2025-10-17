@@ -1,0 +1,33 @@
+Jane Smith
+Email: jane.smith@example.com | Phone: +44 789654123 | Location: London, UK
+Portfolio: janesmith.dev | GitHub: github.com/janesmith
+
+Professional Summary:
+Experienced Backend Developer with 4 years of expertise in designing and maintaining large-scale Django applications. Adept at integrating cloud-based solutions, automating workflows, and ensuring system reliability. Strong collaborator with a focus on delivering exceptional user experiences.
+
+Skills:
+- Backend development with Python 3.11 and Django 4+
+- RESTful API design and implementation
+- PostgreSQL, AWS Aurora DB
+- CI/CD automation, Docker, Kubernetes
+- Monitoring: Sentry, Grafana
+- Git flow, feature branching, code reviews
+
+Experience:
+Backend Engineer | Giraffe360, Riga, Latvia | March 2021 – Present
+- Spearheaded the development of server-side architectures for production-level Django applications.
+- Engineered secure RESTful APIs and implemented data serialization pipelines.
+- Orchestrated CI/CD pipelines, reducing deployment time by 40%.
+- Enhanced system reliability with AWS ECS and S3 integration.
+
+Python Developer | TechWave Ltd., Riga, Latvia | February 2019 – February 2021
+- Refactored and optimized existing Django-based codebases.
+- Worked closely with front-end developers to ensure seamless API integration.
+- Implemented automated testing suites, improving code coverage by 25%.
+
+Education:
+Master’s Degree in Software Engineering | Riga Technical University | 2021
+
+Languages:
+- Latvian: Fluent
+- English: Advanced

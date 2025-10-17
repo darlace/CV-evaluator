@@ -1,0 +1,34 @@
+Alice Johnson
+Email: alice.johnson@example.com | Phone: +1 555-789-1234 | Location: San Francisco, USA
+LinkedIn: linkedin.com/in/alicejohnson | GitHub: github.com/alicejohnson
+
+Professional Summary:
+DevOps-oriented Python Developer with 5 years of experience in building and scaling Django applications. Strong background in cloud-based infrastructure, API development, and team collaboration. Committed to delivering high-quality solutions that meet business needs.
+
+Skills:
+- Python 3.10+, Django 4+
+- API development: REST, JWT, OAuth
+- PostgreSQL, Aurora DB
+- Docker, Kubernetes, RabbitMQ
+- CI/CD pipelines, Git flow
+- Monitoring tools: Prometheus, Sentry
+- AWS (S3, ECS, RDS)
+
+Experience:
+Lead Backend Developer | InnovateTech, San Francisco, USA | January 2020 – Present
+- Designed and implemented scalable Django-based systems to support thousands of concurrent users.
+- Developed APIs for authentication using modern security standards (JWT, OAuth).
+- Deployed and managed containerized applications using Docker and Kubernetes.
+- Led a cross-functional team of developers, DevOps engineers, and product managers.
+
+DevOps Engineer | Cloudify Inc., San Francisco, USA | August 2017 – December 2019
+- Automated infrastructure deployment using Docker and Kubernetes.
+- Integrated monitoring solutions (Grafana, Prometheus) to reduce downtime by 20%.
+- Collaborated with developers to optimize CI/CD workflows.
+
+Education:
+Bachelor’s Degree in Software Development | Stanford University | 2017
+
+Languages:
+- English: Native
+- Latvian: Conversational
