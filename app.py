@@ -1,4 +1,5 @@
 import os
+print("DEBUG GEMINI_API_KEY:", os.environ.get("GEMINI_API_KEY"))
 import json
 import requests
 from config import GEMINI_API_KEY, GEMINI_MODEL_URL, TEMPERATURE
